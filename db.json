@@ -1,0 +1,19 @@
+{"tasks": [{
+    "id":1,
+    "text":"doctor's meeting",
+    "day":"march 1st at 2:30",
+    "reminder":true
+},
+{
+     "id":2,
+    "text":"picinic",
+    "day":"november 1st at 2:30",
+    "reminder":false
+},
+{ 
+    "id":3,
+    "text":"dentist's meeting",
+    "day":"march 31 at 3:30",
+    "reminder":true
+}
+]}
